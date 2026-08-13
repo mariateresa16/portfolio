@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-family: monospace;
+    background-color: hwb(199 79% 1%);
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+}
